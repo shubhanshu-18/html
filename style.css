@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+.box{
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-sizing: border-box;
+    width: 90px;
+    margin: 10px 20px;
+    border: 1px solid #ccc;
+}
